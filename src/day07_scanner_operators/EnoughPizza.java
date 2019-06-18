@@ -1,6 +1,6 @@
 package day07_scanner_operators;
 
-import com.sun.tools.sjavac.server.SysInfo;
+
 
 public class EnoughPizza {
 
@@ -14,7 +14,7 @@ public class EnoughPizza {
 	boolean isEnoughPizza = pizzaCount * 8 >= studentsCount * 2;
 	isEnoughPizza = pizzaCount * 8 / studentsCount >= 2;
 	
-	System.out.println("Is ");
+	System.out.println("Is enough pizza" + isEnoughPizza);
 	
 	
 

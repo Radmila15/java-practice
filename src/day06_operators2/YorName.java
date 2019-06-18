@@ -17,19 +17,12 @@ public class YorName {
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
+		@SuppressWarnings("resource")
 		Scanner radmila=new Scanner(System.in);
 		System.out.println("count");
 		
 		int age = radmila.nextInt();
-		System.out.println("Good");
+		System.out.println(age);
 		
 		
 	}

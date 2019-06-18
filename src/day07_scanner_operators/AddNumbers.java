@@ -9,6 +9,7 @@ public class AddNumbers {
 		
 		int num1, num2, num3, sum;
 		
+		@SuppressWarnings("resource")
 		Scanner scan = new Scanner (System.in);
 		
 		System.out.println("Enter 3 numbers:");

@@ -9,6 +9,7 @@ public class ShoppingList1 {
 		String item1, item2, item3, report;
 		double price1, price2, price3, totalPrice;
 		
+		@SuppressWarnings("resource")
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("Enter Item1 and its price:");

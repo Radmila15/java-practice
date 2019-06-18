@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class EnterNumber {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner scan = new Scanner(System.in); //create Scanner object
         
 		System.out.println("Enter a number:");

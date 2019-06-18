@@ -35,10 +35,7 @@ public class StringsConcat {
 	   int zipcode = 22041;
 	   System.out.println("I live in "+zipcode);
 	   
-	   int num1 = 10;
-	   int num2 = 20;
-	   
-	   System.out.println
+	 
 	   
 	   
 	   

@@ -21,9 +21,8 @@ public class ArraysEquals {
 		//Arrays.sort(a, fromIndex, toIndex, c); comparator
 	    
 	}
-}
 		
 		
 	}
 
-}
+

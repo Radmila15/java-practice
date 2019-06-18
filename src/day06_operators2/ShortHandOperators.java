@@ -39,7 +39,7 @@ public class ShortHandOperators {
         System.out.println("Shoes : " + shoes);
         
         double price = 45.50;
-        int amount = 5;
+       // int amount = 5;
         System.out.println(price);
         
         int minutes = 66;

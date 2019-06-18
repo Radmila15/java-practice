@@ -6,8 +6,8 @@ public class AgeCalculator {
 		//Declare variable yearOfBirth and assign some year
 		int yearOfBirth = 2000;
 		//Declare variable currentYear and assign 2019
-		int currentYear = 2019;
-		//Declare variableage and calculate the age and
+		//int currentYear = 2019;
+		//Declare variable age and calculate the age and
 		//assign result to it
 		int age = 18;
 		//Print: if you are born in year

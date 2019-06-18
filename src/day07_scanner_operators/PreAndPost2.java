@@ -9,7 +9,7 @@ public class PreAndPost2 {
 		++messages; //12
 		System.out.println("Messages: " + messages);
 		
-		int readMessages = messages = --messages;
+		int readMessages = messages  -messages;
 		System.out.println("ReadMessages: " + readMessages);
 		System.out.println("Messages: " + messages);
 		

@@ -9,7 +9,9 @@ public class LookForError {
 		
 		int count = 0;
 		
-		for (int i = 0; i < log.length())
+		for (int i = 0; i < log.length(); i++) {
+			
+		}
 		
 		
 		

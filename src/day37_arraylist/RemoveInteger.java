@@ -1,5 +1,7 @@
 package day37_arraylist;
 
+import java.util.ArrayList;
+
 public class RemoveInteger {
 
 	public static void main(String[] args) {

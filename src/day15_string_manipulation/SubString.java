@@ -7,7 +7,7 @@ public class SubString {
 		System.out.println(sentence.substring(0,4)); //Java
 		//print String.
 		System.out.println(sentence.substring(5,11)); //String
-		System.out.println(sentence.substring );
+		//System.out.println(sentence.substring );
 
 	}
 
