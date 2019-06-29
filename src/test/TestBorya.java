@@ -1,14 +1,31 @@
 package test;
 
+import java.util.ArrayList;
+
 class TestBorya {
-	  public static void main(String[] args) {
-	    //WRITE YOUR CODE HERE
-	    for (char i='z'; i<='v'; i++){
-	      System.out.print(i);
-	for (char j='z'; j<='v'; j++){
-	System.out.print(j);
-	  
+	static double area;
+
+	int b = 2 ,  h = 3;
+
+	public static void main(String[] args) {
+
+	double p, b, h;        // line n1
+
+	if(area == 0) {
+
+	b = 3;
+
+	h = 4;
+
+	p = 0.5;
+
 	}
+
+	area = p * b * h;      // line n2
+
+	System.out.println("Area is " + area);
+
 	}
-	  }
+
 	}
+
